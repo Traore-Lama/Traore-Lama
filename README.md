@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Traore Lama</h1>
-<h3 align="center">I am a passionate ISSR student from France</h3>
+<h3 align="center">I am a passionate SISR student from France</h3>
 
 - 📫 How to reach me **traorelama997@gmail.com**
 
