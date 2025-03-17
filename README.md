@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Traore Lama</h1>
 <h3 align="center">I am a passionate SISR student from France</h3>
 
-<div align="left">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="350"/>
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="350"/>
-  <img src="https://www.acass.fr/public/img/medium/adminsystresmanmanagingsupercomputerserversjpg_65363d9bdf4bb.jpg" height="350"/>
+<div align="center">
+  <img src="https://i.gifer.com/J4x.gif" height="350"/>
 </div>  
 
 - 📫 How to reach me **traorelama997@gmail.com**
