@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Traore Lama</h1>
 <h3 align="center">I am a passionate SISR student from France</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&pause=1000&color=6B2191&width=435&lines=Ashwin%2C+Developer+%26+Future+Pentester)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
+</div>  
+
+---
+
 - 📫 How to reach me **traorelama997@gmail.com**
 
 - ⚡Hobbies **I'm a big fan of shonen anime, but especially a fan of Fairy Tail. I'm also a big gamer. I mostly play Valorant and GTA Roleplay, but I like discovering new games and anime.**
