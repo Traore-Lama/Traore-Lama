@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Traore Lama</h1>
 <h3 align="center">I am a passionate SISR student from France</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&pause=1000&color=6B2191&width=435&lines=Ashwin%2C+Developer+%26+Future+Pentester)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
