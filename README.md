@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
 </div>  
 ---
-<div align="rigth">
+<div align="right">
   <img src="https://www.acass.fr/public/img/medium/adminsystresmanmanagingsupercomputerserversjpg_65363d9bdf4bb.jpg" height="300"/>
 </div>  
 ---
