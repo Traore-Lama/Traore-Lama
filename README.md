@@ -7,7 +7,7 @@
 </div>  
 ---
 <div align="right">
-  <img src="https://www.acass.fr/public/img/medium/adminsystresmanmanagingsupercomputerserversjpg_65363d9bdf4bb.jpg" height="300"/>
+  <img src="https://www.acass.fr/public/img/medium/adminsystresmanmanagingsupercomputerserversjpg_65363d9bdf4bb.jpg" height="250"/>
 </div>  
 ---
 
