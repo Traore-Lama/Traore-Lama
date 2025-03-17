@@ -6,6 +6,9 @@
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
 </div>  
 
+<div align="rigth">
+  <img src="https://files.fm/u/bavk5z325c" height="300"/>
+</div>  
 ---
 
 - 📫 How to reach me **traorelama997@gmail.com**
