@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate SISR student from France</h3>
 
 <div align="center">
-  <img src="https://i.gifer.com/J4x.gif" height="350" widtht="300"/>
+  <img src="https://i.gifer.com/J4x.gif" height="350" width="300"/>
 </div>  
 
 - 📫 How to reach me **traorelama997@gmail.com**
