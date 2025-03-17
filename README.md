@@ -17,4 +17,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=traore-lama&show_icons=true&locale=en" alt="traore-lama" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=traore-lama&" alt="traore-lama" /></p>
