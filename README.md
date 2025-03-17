@@ -7,7 +7,7 @@
 </div>  
 
 <div align="rigth">
-  <img src="https://files.fm/u/bavk5z325c" height="300"/>
+  <img src="file:///C:/Users/Lama/Downloads/tenor.gif" height="300"/>
 </div>  
 ---
 
