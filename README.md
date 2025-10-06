@@ -6,6 +6,7 @@
 </div>  
 
 <div>
+  
 - 📫 How to reach me **traorelama997@gmail.com**
 
 - ⚡Hobbies **I'm a big fan of shonen anime, but especially a fan of Fairy Tail. I'm also a big gamer. I mostly play Valorant and GTA Roleplay, but I like discovering new games and anime.**
