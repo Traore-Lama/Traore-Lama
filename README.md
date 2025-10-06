@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Traore Lama</h1>
 <h3 align="center">I am a passionate SISR student from France</h3>
+<style>
+  background-color: black;
+</style>
 
 <div align="center">
   <img src="https://i.gifer.com/J4x.gif" height="350" width="1500"/>
