@@ -4,7 +4,8 @@
 <div align="center">
   <img src="https://i.gifer.com/J4x.gif" height="350" width="1500"/>
 </div>  
-<div>
+
+<div style="background-color: black;">
   - 📫 How to reach me **traorelama997@gmail.com**
 
 - ⚡Hobbies **I'm a big fan of shonen anime, but especially a fan of Fairy Tail. I'm also a big gamer. I mostly play Valorant and GTA Roleplay, but I like discovering new games and anime.**
