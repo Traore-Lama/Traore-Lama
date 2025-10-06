@@ -1,15 +1,11 @@
-<style>
-  background-color: black;
-</style>
-
 <h1 align="center">Hi 👋, I'm Traore Lama</h1>
 <h3 align="center">I am a passionate SISR student from France</h3>
 
 <div align="center">
   <img src="https://i.gifer.com/J4x.gif" height="350" width="1500"/>
 </div>  
-
-- 📫 How to reach me **traorelama997@gmail.com**
+<div>
+  - 📫 How to reach me **traorelama997@gmail.com**
 
 - ⚡Hobbies **I'm a big fan of shonen anime, but especially a fan of Fairy Tail. I'm also a big gamer. I mostly play Valorant and GTA Roleplay, but I like discovering new games and anime.**
 
@@ -24,5 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=traore-lama&show_icons=true&locale=en&layout=compact" alt="traore-lama" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=traore-lama&show_icons=true&locale=en" alt="traore-lama" /></p>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=traore-lama&" alt="traore-lama" /></p>
