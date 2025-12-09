@@ -1,6 +1,13 @@
 <html>
   <head>
-    <h1 align="center">Hi 👋, I'm Traore Lama</h1>
+    <style>
+      html
+      {
+       background-color: black 
+      }
+    </style>
+  </head>
+   <h1 align="center">Hi 👋, I'm Traore Lama</h1>
 <h3 align="center">I am a passionate SISR student from France</h3>
 
 
@@ -28,6 +35,4 @@
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=traore-lama&" alt="traore-lama" /></p>
-
-  </head>
 </html>
