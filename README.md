@@ -204,12 +204,12 @@ Quand je ne code pas, vous me trouverez en train de :
 
 ---
 
-### 📊 Profile Analytics
+<div align="center">
+  
+  ### 📊 Profile Analytics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=traore-lama&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-<div align="center">
   **[⬆ Retour en haut](#hi--im-traore-lama)**
 </div>
 
-</div>
