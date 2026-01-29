@@ -69,12 +69,6 @@ const traorelama = {
 ---
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=traore-lama&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=traore-lama&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=traore-lama&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
@@ -85,17 +79,6 @@ const traorelama = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🌟 Projets Web
-
-[![Project 1](https://img.shields.io/badge/🎯_Projet_E-Commerce-FF6B6B?style=for-the-badge)](https://github.com/traore-lama/projet-ecommerce)
-[![Project 2](https://img.shields.io/badge/📱_Application_de_Gestion-4ECDC4?style=for-the-badge)](https://github.com/traore-lama/app-gestion)
-[![Project 3](https://img.shields.io/badge/🎮_Portfolio_Interactif-FFE66D?style=for-the-badge)](https://github.com/traore-lama/portfolio)
-
-</div>
 ### 🎯 Bloc B2 - Conception et développement d'applications
 
 #### Développement Web
@@ -225,7 +208,8 @@ Quand je ne code pas, vous me trouverez en train de :
 
 ![Profile Views](https://komarev.com/ghpvc/?username=traore-lama&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-
-**[⬆ Retour en haut](#hi--im-traore-lama)**
+<div align="center">
+  **[⬆ Retour en haut](#hi--im-traore-lama)**
+</div>
 
 </div>
