@@ -1,4 +1,6 @@
-# Hi 👋, I'm Traore Lama
+<div align="center">
+  <h1><strong>Hi 👋, I'm Traore Lama</strong></h1>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;BTS+SIO+SLAM+Student;Passionate+About+Clean+Code;Building+Amazing+Web+Apps!" alt="Typing SVG" />
@@ -41,7 +43,6 @@ const traorelama = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Backend Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -95,9 +96,6 @@ const traorelama = {
 [![Project 3](https://img.shields.io/badge/🎮_Portfolio_Interactif-FFE66D?style=for-the-badge)](https://github.com/traore-lama/portfolio)
 
 </div>
-
-## 💡 Compétences BTS SIO - SLAM
-
 ### 🎯 Bloc B2 - Conception et développement d'applications
 
 #### Développement Web
@@ -172,12 +170,6 @@ Others       ██░░░░░░░░░░░░░░░░░░    2 h
 - [ ] Décrocher une alternance en développement de jeux video
 
 ---
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=traore-lama&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
-</div>
 
 ### 📜 Certifications (à venir)
 - 🎓 BTS SIO option SLAM (en cours)
