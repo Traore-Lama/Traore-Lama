@@ -9,7 +9,7 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://votre-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lama-traore-54ba09355/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:traorelama997@gmail.com)
 
 </div>
@@ -177,7 +177,7 @@ Quand je ne code pas, vous me trouverez en train de :
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectez--vous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectez--vous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lama-traore-54ba09355/)
 [![Email](https://img.shields.io/badge/Email-Contactez--moi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:traorelama997@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitez--mon--site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://votre-portfolio.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Suivez--moi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/traore-lama)
