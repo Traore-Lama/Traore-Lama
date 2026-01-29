@@ -109,17 +109,6 @@ const traorelama = {
 
 </div>
 
-### 💼 Mes Projets BTS SIO - SLAM
-
-| Projet | Technologies | Description | Status |
-|--------|-------------|-------------|---------|
-| 🛒 **E-Commerce Platform** | PHP, MySQL, Bootstrap | Plateforme de vente en ligne complète | ✅ Terminé |
-| 📊 **Dashboard Admin** | React, Node.js, MongoDB | Interface d'administration moderne | 🚧 En cours |
-| 🎨 **Portfolio Generator** | Vue.js, Tailwind CSS | Générateur de portfolio automatique | 📅 Planifié |
-| 🔐 **Système d'authentification** | Symfony, JWT | API REST sécurisée | ✅ Terminé |
-
----
-
 ## 💡 Compétences BTS SIO - SLAM
 
 ### 🎯 Bloc B2 - Conception et développement d'applications
@@ -128,12 +117,11 @@ const traorelama = {
 - ✅ Conception et développement d'applications web (MVC)
 - ✅ Programmation orientée objet (PHP, Java, JavaScript)
 - ✅ Développement Frontend responsive (HTML5, CSS3, JavaScript)
-- ✅ Développement Backend (PHP, Node.js, API REST)
-- ✅ Gestion de bases de données (SQL, NoSQL)
-- ✅ Frameworks modernes (Symfony, Laravel, React, Vue.js)
+- ✅ Développement Backend (PHP)
+- ✅ Gestion de bases de données (SQL)
+- ✅ Frameworks modernes (Symfony, React, Vue.js)
 
 #### Méthodologies & Bonnes pratiques
-- 📋 Méthode Agile / SCRUM
 - 🔄 Cycle de développement logiciel
 - 🧪 Tests unitaires et fonctionnels
 - 📝 Documentation technique (UML, Merise)
@@ -161,20 +149,14 @@ Formation Actuelle:
 Compétences Développées:
   - Développement Web Full Stack
   - Conception de bases de données
-  - Architecture logicielle (MVC, API REST)
   - Sécurité des applications
-  - Gestion de projet Agile
-  - DevOps & CI/CD
   
 Projets Réalisés:
   - Applications web dynamiques
-  - API REST
   - Sites e-commerce
   - Systèmes de gestion
   - Interfaces administratives
 ```
-
----
 
 ## 🔥 My Coding Journey
 
@@ -194,26 +176,13 @@ Others       ██░░░░░░░░░░░░░░░░░░    2 h
 
 ---
 
-## 🌟 What I'm Currently Working On
-
-- 🔨 Building a **full-stack e-commerce platform** with Symfony & React
-- 📚 Learning **Docker** & **Kubernetes** for containerization
-- 🎨 Improving my **UI/UX design** skills with Figma
-- 🚀 Contributing to **open-source projects**
-- 📝 Writing technical blog posts about web development
-
----
-
 ## 🎯 2025 Goals
 
-- [ ] Maîtriser React et ses écosystèmes (Redux, Next.js)
 - [ ] Approfondir mes connaissances en Symfony 7
 - [ ] Obtenir mon BTS SIO avec mention
-- [ ] Créer et déployer 5 projets web complets
 - [ ] Contribuer à des projets open-source
-- [ ] Apprendre TypeScript en profondeur
 - [ ] Développer mon portfolio professionnel
-- [ ] Décrocher une alternance en développement web
+- [ ] Décrocher une alternance en développement de jeux video
 
 ---
 
@@ -225,9 +194,6 @@ Others       ██░░░░░░░░░░░░░░░░░░    2 h
 
 ### 📜 Certifications (à venir)
 - 🎓 BTS SIO option SLAM (en cours)
-- 💻 Certifications en développement web
-- 🔒 Sécurité des applications web
-
 ---
 
 ## 🎮 Beyond Coding
@@ -240,17 +206,6 @@ Quand je ne code pas, vous me trouverez en train de :
 - 🕹️ Développer des petits jeux avec Unity
 - 📚 Lire des articles techniques et des tutoriels
 - 🌐 Découvrir de nouveaux frameworks et outils
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Comment créer une API REST avec Symfony 7
-- 💡 Les meilleures pratiques de sécurité en PHP
-- 🎨 Créer une interface moderne avec Tailwind CSS
-- 🔥 Introduction à React Hooks pour les débutants
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -286,20 +241,6 @@ Quand je ne code pas, vous me trouverez en train de :
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/traore-lama/traore-lama/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/traore-lama/traore-lama/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/traore-lama/traore-lama/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
 
 ### 📊 Profile Analytics
 
