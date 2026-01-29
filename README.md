@@ -33,7 +33,7 @@ const traorelama = {
 🎓 **Étudiant en BTS SIO option SLAM** (Solutions Logicielles et Applications Métiers)  
 💼 **Spécialisé en développement web Full Stack**  
 🚀 **Passionné par la création d'applications web modernes et performantes**  
-🎯 **Objectif :** Devenir développeur Full Stack confirmé
+🎯 **Objectif :** Devenir développeur de jeux video confirmé
 
 ---
 
@@ -69,9 +69,6 @@ const traorelama = {
 ---
 
 ## 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=traore-lama&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=traore-lama&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
@@ -88,13 +85,6 @@ const traorelama = {
 - ✅ Développement Backend (PHP)
 - ✅ Gestion de bases de données (SQL)
 - ✅ Frameworks modernes (Symfony, React, Vue.js)
-
-#### Méthodologies & Bonnes pratiques
-- 🔄 Cycle de développement logiciel
-- 🧪 Tests unitaires et fonctionnels
-- 📝 Documentation technique (UML, Merise)
-- 🔒 Sécurité des applications web (OWASP)
-- 🎨 Design patterns et architecture logicielle
 
 #### Gestion de projet
 - 📊 Analyse des besoins
@@ -144,7 +134,7 @@ Others       ██░░░░░░░░░░░░░░░░░░    2 h
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Approfondir mes connaissances en Symfony 7
 - [ ] Obtenir mon BTS SIO avec mention
