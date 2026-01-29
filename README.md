@@ -1,145 +1,279 @@
 # Hi 👋, I'm Traore Lama
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=SISR+Student+from+France;Passionate+about+Networking;System+Administration+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;BTS+SIO+SLAM+Student;Passionate+About+Clean+Code;Building+Amazing+Web+Apps!" alt="Typing SVG" />
 </div>
 
-## 🎓 About Me
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://votre-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre-profil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:traorelama997@gmail.com)
 
-I am a passionate **SISR** (Solutions d'Infrastructure, Systèmes et Réseaux) student from France, currently pursuing my **BTS SIO** (Services Informatiques aux Organisations).
-
-- 🔭 I'm currently learning **system administration, networking, and cybersecurity**
-- 🌱 I'm expanding my skills in **Docker, Python, Unity, and Unreal Engine**
-- ⚡ **Hobbies:** I'm a big fan of shonen anime, especially **Fairy Tail**. I'm also a passionate gamer - I mostly play **Valorant** and **GTA Roleplay**, but I love discovering new games and anime
-- 📫 How to reach me: **traorelama997@gmail.com**
-- 🌍 Based in **France**
+</div>
 
 ---
 
-## 🛠️ Languages and Tools
+## 👨‍💻 About Me
 
-<div align="center">
+```javascript
+const traorelama = {
+    education: "BTS SIO - Option SLAM",
+    location: "France 🇫🇷",
+    role: "Full Stack Web Developer Student",
+    currentlyLearning: ["React", "Node.js", "Symfony", "Docker"],
+    interests: ["Web Development", "UI/UX Design", "Game Development"],
+    hobbies: ["Anime 📺 (Fairy Tail fan!)", "Gaming 🎮 (Valorant, GTA RP)"],
+    contactMe: "traorelama997@gmail.com"
+};
+```
 
-### 💻 Programming Languages
+🎓 **Étudiant en BTS SIO option SLAM** (Solutions Logicielles et Applications Métiers)  
+💼 **Spécialisé en développement web Full Stack**  
+🚀 **Passionné par la création d'applications web modernes et performantes**  
+🎯 **Objectif :** Devenir développeur Full Stack confirmé
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🗄️ Databases
+### Frameworks & CMS
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🎮 Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-### 🐳 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🖥️ Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
+### Game Development (Side Interest)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=traore-lama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=traore-lama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=traore-lama&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=traore-lama&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=traore-lama&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=traore-lama&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=traore-lama&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=traore-lama&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌟 Projets Web
+
+[![Project 1](https://img.shields.io/badge/🎯_Projet_E-Commerce-FF6B6B?style=for-the-badge)](https://github.com/traore-lama/projet-ecommerce)
+[![Project 2](https://img.shields.io/badge/📱_Application_de_Gestion-4ECDC4?style=for-the-badge)](https://github.com/traore-lama/app-gestion)
+[![Project 3](https://img.shields.io/badge/🎮_Portfolio_Interactif-FFE66D?style=for-the-badge)](https://github.com/traore-lama/portfolio)
+
+</div>
+
+### 💼 Mes Projets BTS SIO - SLAM
+
+| Projet | Technologies | Description | Status |
+|--------|-------------|-------------|---------|
+| 🛒 **E-Commerce Platform** | PHP, MySQL, Bootstrap | Plateforme de vente en ligne complète | ✅ Terminé |
+| 📊 **Dashboard Admin** | React, Node.js, MongoDB | Interface d'administration moderne | 🚧 En cours |
+| 🎨 **Portfolio Generator** | Vue.js, Tailwind CSS | Générateur de portfolio automatique | 📅 Planifié |
+| 🔐 **Système d'authentification** | Symfony, JWT | API REST sécurisée | ✅ Terminé |
+
+---
+
+## 💡 Compétences BTS SIO - SLAM
+
+### 🎯 Bloc B2 - Conception et développement d'applications
+
+#### Développement Web
+- ✅ Conception et développement d'applications web (MVC)
+- ✅ Programmation orientée objet (PHP, Java, JavaScript)
+- ✅ Développement Frontend responsive (HTML5, CSS3, JavaScript)
+- ✅ Développement Backend (PHP, Node.js, API REST)
+- ✅ Gestion de bases de données (SQL, NoSQL)
+- ✅ Frameworks modernes (Symfony, Laravel, React, Vue.js)
+
+#### Méthodologies & Bonnes pratiques
+- 📋 Méthode Agile / SCRUM
+- 🔄 Cycle de développement logiciel
+- 🧪 Tests unitaires et fonctionnels
+- 📝 Documentation technique (UML, Merise)
+- 🔒 Sécurité des applications web (OWASP)
+- 🎨 Design patterns et architecture logicielle
+
+#### Gestion de projet
+- 📊 Analyse des besoins
+- 🎯 Cahier des charges
+- ⏱️ Gestion du temps et des priorités
+- 👥 Travail en équipe / Collaboration
+- 📈 Versioning avec Git/GitHub
+
+---
+
+## 🎓 Parcours de Formation
 
 ```yaml
-education:
-  degree: "BTS SIO"
-  option: "SISR"
-  focus: 
-    - System Administration
-    - Network Infrastructure
-    - Cybersecurity
-    - Virtualization & Containerization
-
-interests:
-  technical:
-    - 🔐 Cybersecurity
-    - 🌐 Network Architecture
-    - 🐧 Linux System Administration
-    - 🐳 Docker & Containerization
-    - 🎮 Game Development
+Formation Actuelle:
+  diplôme: "BTS SIO"
+  option: "SLAM (Solutions Logicielles et Applications Métiers)"
+  établissement: "[Votre établissement]"
+  année: "2024-2025"
   
-  personal:
-    - 📺 Anime (Fairy Tail fan!)
-    - 🎮 Gaming (Valorant, GTA Roleplay)
-    - 🔍 Discovering new technologies
+Compétences Développées:
+  - Développement Web Full Stack
+  - Conception de bases de données
+  - Architecture logicielle (MVC, API REST)
+  - Sécurité des applications
+  - Gestion de projet Agile
+  - DevOps & CI/CD
+  
+Projets Réalisés:
+  - Applications web dynamiques
+  - API REST
+  - Sites e-commerce
+  - Systèmes de gestion
+  - Interfaces administratives
 ```
 
 ---
 
-## 🏆 Achievements
+## 🔥 My Coding Journey
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=traore-lama&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+
+### 📈 Weekly Development Breakdown
+
+```text
+PHP          ████████████░░░░░░░░   12 hrs  ███████████░░░  35%
+JavaScript   ██████████░░░░░░░░░░   10 hrs  █████████░░░░░  30%
+HTML/CSS     ██████░░░░░░░░░░░░░░    6 hrs  █████░░░░░░░░░  18%
+SQL          ████░░░░░░░░░░░░░░░░    4 hrs  ███░░░░░░░░░░░  12%
+Others       ██░░░░░░░░░░░░░░░░░░    2 hrs  █░░░░░░░░░░░░░   5%
+```
+
 </div>
 
 ---
 
-## 🎮 Gaming & Interests
+## 🌟 What I'm Currently Working On
 
-### 🎯 Favorite Games
-- **Valorant** - Competitive FPS
-- **GTA Roleplay** - Immersive gaming experience
-- Always exploring new games!
-
-### 📺 Anime
-- **Favorite:** Fairy Tail ⚡
-- Big fan of Shonen anime
-- Always looking for new series to watch
+- 🔨 Building a **full-stack e-commerce platform** with Symfony & React
+- 📚 Learning **Docker** & **Kubernetes** for containerization
+- 🎨 Improving my **UI/UX design** skills with Figma
+- 🚀 Contributing to **open-source projects**
+- 📝 Writing technical blog posts about web development
 
 ---
 
-## 💼 BTS SIO - SISR Skills
+## 🎯 2025 Goals
 
-### 🔧 Technical Competencies
-
-**Administration des systèmes et des réseaux:**
-- 💻 Installation et configuration de serveurs (Windows Server, Linux)
-- 🌐 Administration réseaux (routage, switching, VLAN)
-- 🔒 Mise en œuvre de solutions de sécurité
-- 📊 Supervision et monitoring d'infrastructure
-- 🐳 Virtualisation et conteneurisation (Docker, VMware, VirtualBox)
-
-**Compétences transversales:**
-- 📝 Documentation technique
-- 🎯 Résolution de problèmes
-- 👥 Travail en équipe
-- 📚 Veille technologique
+- [ ] Maîtriser React et ses écosystèmes (Redux, Next.js)
+- [ ] Approfondir mes connaissances en Symfony 7
+- [ ] Obtenir mon BTS SIO avec mention
+- [ ] Créer et déployer 5 projets web complets
+- [ ] Contribuer à des projets open-source
+- [ ] Apprendre TypeScript en profondeur
+- [ ] Développer mon portfolio professionnel
+- [ ] Décrocher une alternance en développement web
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Achievements & Certifications
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=traore-lama&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+</div>
+
+### 📜 Certifications (à venir)
+- 🎓 BTS SIO option SLAM (en cours)
+- 💻 Certifications en développement web
+- 🔒 Sécurité des applications web
+
+---
+
+## 🎮 Beyond Coding
+
+Quand je ne code pas, vous me trouverez en train de :
+
+- 📺 Regarder des animes (grand fan de **Fairy Tail** ⚡)
+- 🎮 Jouer à **Valorant** ou faire du **GTA Roleplay**
+- 🎨 Explorer de nouvelles technologies web
+- 🕹️ Développer des petits jeux avec Unity
+- 📚 Lire des articles techniques et des tutoriels
+- 🌐 Découvrir de nouveaux frameworks et outils
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Comment créer une API REST avec Symfony 7
+- 💡 Les meilleures pratiques de sécurité en PHP
+- 🎨 Créer une interface moderne avec Tailwind CSS
+- 🔥 Introduction à React Hooks pour les débutants
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💬 Ask Me About
+
+- 💻 Développement Web (Frontend & Backend)
+- 🎨 UI/UX Design
+- 🔐 Sécurité des applications web
+- 🐳 Docker & conteneurisation
+- 📊 Conception de bases de données
+- 🎮 Game Development (Unity/Unreal)
+- 📺 Animes et gaming !
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre-profil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:traorelama997@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/traore-lama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectez--vous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre-profil)
+[![Email](https://img.shields.io/badge/Email-Contactez--moi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:traorelama997@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitez--mon--site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://votre-portfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Suivez--moi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/traore-lama)
 
 </div>
 
@@ -148,7 +282,7 @@ interests:
 ## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 ---
@@ -156,25 +290,38 @@ interests:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/traore-lama/traore-lama/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/traore-lama/traore-lama/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/traore-lama/traore-lama/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/traore-lama/traore-lama/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
 <div align="center">
 
-### 📈 Profile Views
+### 📊 Profile Analytics
 
-![Profile Views](https://komarev.com/ghpvc/?username=traore-lama&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=traore-lama&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-### ⭐ Show some love!
+### 💖 Support My Work
 
-If you like my work, consider giving a ⭐ to my repositories!
+If you find my projects useful, consider giving them a ⭐!
+
+[![GitHub followers](https://img.shields.io/github/followers/traore-lama?style=social)](https://github.com/traore-lama)
+[![GitHub stars](https://img.shields.io/github/stars/traore-lama?style=social)](https://github.com/traore-lama)
 
 ---
 
-**Made with ❤️ by Traore Lama**
+**💻 Made with ❤️ and ☕ by Traore Lama**
 
-*"The only way to do great work is to love what you do." - Steve Jobs*
+<sub>*Étudiant BTS SIO SLAM | Développeur Web Full Stack | France 🇫🇷*</sub>
+
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+
+---
+
+**[⬆ Retour en haut](#hi--im-traore-lama)**
 
 </div>
