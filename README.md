@@ -305,22 +305,6 @@ Quand je ne code pas, vous me trouverez en train de :
 
 ![Profile Views](https://komarev.com/ghpvc/?username=traore-lama&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-### 💖 Support My Work
-
-If you find my projects useful, consider giving them a ⭐!
-
-[![GitHub followers](https://img.shields.io/github/followers/traore-lama?style=social)](https://github.com/traore-lama)
-[![GitHub stars](https://img.shields.io/github/stars/traore-lama?style=social)](https://github.com/traore-lama)
-
----
-
-**💻 Made with ❤️ and ☕ by Traore Lama**
-
-<sub>*Étudiant BTS SIO SLAM | Développeur Web Full Stack | France 🇫🇷*</sub>
-
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
-
----
 
 **[⬆ Retour en haut](#hi--im-traore-lama)**
 
