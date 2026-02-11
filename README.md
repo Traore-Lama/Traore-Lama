@@ -102,7 +102,7 @@ Formation Actuelle:
   diplôme: "BTS SIO"
   option: "SLAM (Solutions Logicielles et Applications Métiers)"
   établissement: "Ort Daniel Mayer"
-  année: "2024-2025"
+  année: "2025-2026"
   
 Compétences Développées:
   - Développement Web Full Stack
