@@ -101,7 +101,7 @@ const traorelama = {
 Formation Actuelle:
   diplôme: "BTS SIO"
   option: "SLAM (Solutions Logicielles et Applications Métiers)"
-  établissement: "[Votre établissement]"
+  établissement: "Ort Daniel Mayer"
   année: "2024-2025"
   
 Compétences Développées:
